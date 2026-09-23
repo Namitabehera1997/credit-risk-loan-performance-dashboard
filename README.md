@@ -26,11 +26,11 @@ This project analyzes retail banking loan and credit risk data to understand loa
 ## Dashboard
 Power BI dashboard provides interactive views of loan performance and credit risk metrics.
 
-# SUMMARY
+#SUMMARY
 <img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/2858d664-633d-4a27-af12-72b70eeca64f" />
-# CREDIT RISK ANALYSIS 
+#CREDIT RISK ANALYSIS 
 <img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/215d2efd-1dec-4857-9039-3a6efd3d5faa" />
-# PROTFOLIO ANALYSIS
+#PROTFOLIO ANALYSIS
 <img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/6f2c7c41-fed4-4c2c-9386-3a95520c9b74" />
 
 
